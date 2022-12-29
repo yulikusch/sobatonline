@@ -4,7 +4,9 @@
             <h1>Casscom</h1>
             <nav id="navbar" class="navbar order-last order-lg-0">
                 <ul>
-                    <li>home</li>
+                    <li>Home</li>
+                    <li>About</li>
+                    <li>Service</li>
                 </ul>
             </nav>
         </div>
